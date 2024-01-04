@@ -1,1 +1,1 @@
-# Simple Car Rental Management System(C# Console)
+A simple car rental  management system i made for my Uni project.
